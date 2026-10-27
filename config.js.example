@@ -1,0 +1,7 @@
+// Ejemplo de configuración (Reemplazar con datos reales en Apps Script local)
+var CONFIG = {
+  NOMBRE_COMPLETO: "Tu Nombre Completo",
+  EMPRESA: "Nombre de tu Empresa",
+  PLACA_MOTO: "ABC-123",
+  DESTINATARIO: "correo_destino@empresa.com"
+};
