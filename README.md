@@ -29,8 +29,8 @@ Sigue estos pasos para poner a funcionar tu propio programador en tu cuenta de G
 ### 1. Clonar el repositorio
 Abre tu terminal y clona este repositorio en tu computadora:
 
-    git clone [https://github.com/Rod9013/project_01.git](https://github.com/Rod9013/project_01.git)
-    cd project_01
+    git clone https://github.com/Rod9013/reserva-parqueadero-gas.git
+    cd reserva-parqueadero-gas
 
 ### 2. Configurar tus datos personales
 1. Duplica o renombra el archivo config.js.example como config.js.
